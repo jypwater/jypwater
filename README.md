@@ -7,7 +7,7 @@
 
 2. 🤔 Rainfall Runoff of Soyang Multi-Purposed dam using LSTM (https://github.com/jypwater/Rainfall_Runoff_using_LSTM)
 
-3. 👯 Flooding Area using AI-Unet (in Progress) (https://github.com/jypwater/YD_Dam_Flooding, In progress)
+3. 👯 Flooding Area of Yong Dam Multi-Purposed dam using AI-Unet (in Progress) (https://github.com/jypwater/YD_Dam_Flooding, In progress)
 
 
 문의사항: Habaek Soft 에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
