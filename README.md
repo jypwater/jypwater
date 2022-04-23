@@ -3,7 +3,7 @@
 Habaek Soft will show the BigData, AI solution and water resources scientific applications 
 
 ## : Research areas : 
-0. Wamis and Kwater public data acquisition 
+0. Wamis and Kwater public data acquisition (https://github.com/jypwater/Data-collection-using-WAMIS-OpenAPI)
 
 1. Rainfall Runoff Model for Multi-Purposed dam in Korea using AI-SVM (Machine Learning) ~~~ (https://github.com/jypwater/Dam_inflow_analysis_using_SVM)
 
